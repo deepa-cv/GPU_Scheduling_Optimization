@@ -14,6 +14,6 @@ Results show that no single scheduling policy is optimal under all conditions, h
 Need a GAMS license to make sure the install the required solvers. The current project is run using an academic license. 
 
 ## Dataset
-https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2026-GenAI 
+https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2026-spot-gpu
 
 
